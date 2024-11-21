@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Gastonbz
-- 👀 I’m interested in collaborate in Fflutter open source projects.
+# 👋 Hi there! I'm @Gastonbz
 
+- 🌱 Currently learning and contributing to **Flutter** open-source projects.
+- 👀 Passionate about building innovative solutions and supporting the open-source community.
+- 💬 Always open to new ideas and collaboration opportunities.
 
-<!---
-Gastonbz/Gastonbz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+This special repository, Gastonbz/Gastonbz, is unique because its `README.md` file is displayed directly on your GitHub profile.
+Click the preview link to see how your changes look.
+-->
