@@ -1,10 +1,9 @@
-# 👋 Hi there! I'm @Gastonbz
+# 🎾 Hi there, welcome!
 
-- 🌱 Currently learning and contributing to **Flutter** open-source projects.
-- 👀 Passionate about building innovative solutions and supporting the open-source community.
-- 💬 Always open to new ideas and collaboration opportunities.
+- 🏅 Expert in personalized and group tennis lessons.
+- 🌍 Trainer with experience across 4 continents, adapting to the needs of each client.
+- 📍 Based in Hamburg, Germany, ready to help you improve your game.
 
-<!--
-This special repository, Gastonbz/Gastonbz, is unique because its `README.md` file is displayed directly on your GitHub profile.
-Click the preview link to see how your changes look.
--->
+---
+
+This repository is dedicated to promoting my services as a professional tennis coach. Feel free to explore and contact me for more information!
